@@ -1,0 +1,4757 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8113888888889,
+                    64.4819444444445
+                ]
+            },
+            "properties": {
+                "name": "ABKEM",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.755,
+                    68.1488888888889
+                ]
+            },
+            "properties": {
+                "name": "ABLOP",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.6880555555556,
+                    61.7236111111111
+                ]
+            },
+            "properties": {
+                "name": "ABMAX",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3913888888889,
+                    63.5825
+                ]
+            },
+            "properties": {
+                "name": "ABOXU",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9966666666667,
+                    59.8972222222222
+                ]
+            },
+            "properties": {
+                "name": "ABSER",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.06,
+                    62.7711111111111
+                ]
+            },
+            "properties": {
+                "name": "ADEDO",
+                "arrival": false,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6197222222222,
+                    68.7708333333333
+                ]
+            },
+            "properties": {
+                "name": "ADEXU",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9813888888889,
+                    60.2975
+                ]
+            },
+            "properties": {
+                "name": "ADIVO",
+                "arrival": false,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.8305555555556,
+                    61.4233333333333
+                ]
+            },
+            "properties": {
+                "name": "ADOPO",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.2663888888889,
+                    60.9027777777778
+                ]
+            },
+            "properties": {
+                "name": "ADSEB",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.265,
+                    63.1466666666667
+                ]
+            },
+            "properties": {
+                "name": "AGAMO",
+                "arrival": false,
+                "departure": false,
+                "intermediate": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.8386111111111,
+                    62.6483333333333
+                ]
+            },
+            "properties": {
+                "name": "AGIVU",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9158333333333,
+                    59.0477777777778
+                ]
+            },
+            "properties": {
+                "name": "ALAMI",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3541666666667,
+                    62.3786111111111
+                ]
+            },
+            "properties": {
+                "name": "AMASU",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7091666666667,
+                    60.4938888888889
+                ]
+            },
+            "properties": {
+                "name": "AMROT",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.3366666666667,
+                    67.365
+                ]
+            },
+            "properties": {
+                "name": "AMUBA",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3783333333333,
+                    67.3802777777778
+                ]
+            },
+            "properties": {
+                "name": "AMULU",
+                "arrival": false,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6380555555556,
+                    61.1658333333333
+                ]
+            },
+            "properties": {
+                "name": "AMUPO",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0727777777778,
+                    66.4033333333333
+                ]
+            },
+            "properties": {
+                "name": "APTEN",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4944444444444,
+                    61.6269444444445
+                ]
+            },
+            "properties": {
+                "name": "ARBEV",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.3691666666667,
+                    66.3172222222222
+                ]
+            },
+            "properties": {
+                "name": "ARFUT",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.7313888888889,
+                    60.7902777777778
+                ]
+            },
+            "properties": {
+                "name": "ARLOM",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.3991666666667,
+                    60.2494444444444
+                ]
+            },
+            "properties": {
+                "name": "ARVEP",
+                "arrival": false,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1280555555556,
+                    65.3986111111111
+                ]
+            },
+            "properties": {
+                "name": "ASLUP",
+                "arrival": false,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1008333333333,
+                    62.1972222222222
+                ]
+            },
+            "properties": {
+                "name": "ASPEM",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.2611111111111,
+                    64.1897222222222
+                ]
+            },
+            "properties": {
+                "name": "ASRIS",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.4541666666667,
+                    62.5569444444444
+                ]
+            },
+            "properties": {
+                "name": "ASTUX",
+                "arrival": false,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.1391666666667,
+                    69.9311111111111
+                ]
+            },
+            "properties": {
+                "name": "ASVUG",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.7713888888889,
+                    62.5658333333333
+                ]
+            },
+            "properties": {
+                "name": "ATLUL",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5355555555556,
+                    63.3994444444444
+                ]
+            },
+            "properties": {
+                "name": "ATPEL",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3166666666667,
+                    62.0769444444445
+                ]
+            },
+            "properties": {
+                "name": "ATSEN",
+                "arrival": true,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0736111111111,
+                    62.8838888888889
+                ]
+            },
+            "properties": {
+                "name": "AXUTI",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4158333333333,
+                    61.3625
+                ]
+            },
+            "properties": {
+                "name": "BAKLA",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2516666666667,
+                    59.9041666666667
+                ]
+            },
+            "properties": {
+                "name": "BALTI",
+                "arrival": true,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9663888888889,
+                    63.2844444444444
+                ]
+            },
+            "properties": {
+                "name": "BAPTU",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.5502777777778,
+                    63.9494444444444
+                ]
+            },
+            "properties": {
+                "name": "BAVMO",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9419444444444,
+                    65.3744444444444
+                ]
+            },
+            "properties": {
+                "name": "BEDSO",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7825,
+                    62.6158333333333
+                ]
+            },
+            "properties": {
+                "name": "BEGSU",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3119444444444,
+                    61.9788888888889
+                ]
+            },
+            "properties": {
+                "name": "BEPEM",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.3822222222222,
+                    65.9558333333333
+                ]
+            },
+            "properties": {
+                "name": "BEVNA",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4769444444444,
+                    60.4644444444444
+                ]
+            },
+            "properties": {
+                "name": "BEVOM",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1538888888889,
+                    65.5927777777778
+                ]
+            },
+            "properties": {
+                "name": "BEXUL",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2719444444444,
+                    60.4627777777778
+                ]
+            },
+            "properties": {
+                "name": "BIFIX",
+                "arrival": false,
+                "departure": false,
+                "intermediate": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8241666666667,
+                    62.415
+                ]
+            },
+            "properties": {
+                "name": "BODRI",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2261111111111,
+                    62.7863888888889
+                ]
+            },
+            "properties": {
+                "name": "BUPEG",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4505555555556,
+                    63.2583333333333
+                ]
+            },
+            "properties": {
+                "name": "DEDIT",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.6275,
+                    67.6680555555556
+                ]
+            },
+            "properties": {
+                "name": "DEPUK",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9188888888889,
+                    61.2166666666667
+                ]
+            },
+            "properties": {
+                "name": "DIPUM",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2372222222222,
+                    60.9686111111111
+                ]
+            },
+            "properties": {
+                "name": "DISIB",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5936111111111,
+                    59.8483333333333
+                ]
+            },
+            "properties": {
+                "name": "DIVAM",
+                "arrival": true,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7213888888889,
+                    62.9122222222222
+                ]
+            },
+            "properties": {
+                "name": "DIVEG",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4525,
+                    59.7994444444444
+                ]
+            },
+            "properties": {
+                "name": "DOBAN",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3016666666667,
+                    60.0444444444444
+                ]
+            },
+            "properties": {
+                "name": "DODAM",
+                "arrival": true,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3988888888889,
+                    63.7233333333333
+                ]
+            },
+            "properties": {
+                "name": "DODEP",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3216666666667,
+                    68.1413888888889
+                ]
+            },
+            "properties": {
+                "name": "DOPUD",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4544444444444,
+                    60.095
+                ]
+            },
+            "properties": {
+                "name": "EBEBU",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.2430555555556,
+                    62.9125
+                ]
+            },
+            "properties": {
+                "name": "EBIXO",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7275,
+                    65.2516666666667
+                ]
+            },
+            "properties": {
+                "name": "EKMIK",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1625,
+                    59.7166666666667
+                ]
+            },
+            "properties": {
+                "name": "EKNID",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8344444444444,
+                    60.4563888888889
+                ]
+            },
+            "properties": {
+                "name": "ELKUN",
+                "arrival": false,
+                "departure": false,
+                "intermediate": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1008333333333,
+                    63.7725
+                ]
+            },
+            "properties": {
+                "name": "ELPOP",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3519444444444,
+                    62.8041666666667
+                ]
+            },
+            "properties": {
+                "name": "ELSOV",
+                "arrival": true,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5752777777778,
+                    63.9927777777778
+                ]
+            },
+            "properties": {
+                "name": "EMDUR",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7111111111111,
+                    60.2144444444444
+                ]
+            },
+            "properties": {
+                "name": "EMPOM",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5722222222222,
+                    61.0747222222222
+                ]
+            },
+            "properties": {
+                "name": "ENETI",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7527777777778,
+                    69.3308333333333
+                ]
+            },
+            "properties": {
+                "name": "ENEXI",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0905555555556,
+                    61.0141666666667
+                ]
+            },
+            "properties": {
+                "name": "ERAKO",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.7147222222222,
+                    61.2263888888889
+                ]
+            },
+            "properties": {
+                "name": "ERKOM",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2797222222222,
+                    61.2861111111111
+                ]
+            },
+            "properties": {
+                "name": "ERNUT",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.2822222222222,
+                    62.0266666666667
+                ]
+            },
+            "properties": {
+                "name": "EROKU",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4263888888889,
+                    62.0272222222222
+                ]
+            },
+            "properties": {
+                "name": "ERTOP",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.7638888888889,
+                    62.8288888888889
+                ]
+            },
+            "properties": {
+                "name": "ETENA",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.6777777777778,
+                    62.1888888888889
+                ]
+            },
+            "properties": {
+                "name": "ETOBA",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.8052777777778,
+                    63.9513888888889
+                ]
+            },
+            "properties": {
+                "name": "ETROD",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8572222222222,
+                    59.3397222222222
+                ]
+            },
+            "properties": {
+                "name": "EVADI",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9172222222222,
+                    67.2516666666667
+                ]
+            },
+            "properties": {
+                "name": "EVIMI",
+                "arrival": true,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7983333333333,
+                    60.375
+                ]
+            },
+            "properties": {
+                "name": "EVIRO",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.7155555555556,
+                    69.3638888888889
+                ]
+            },
+            "properties": {
+                "name": "EVLAK",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1119444444444,
+                    60.2522222222222
+                ]
+            },
+            "properties": {
+                "name": "EVLAN",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0747222222222,
+                    61.0463888888889
+                ]
+            },
+            "properties": {
+                "name": "EVLIT",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9766666666667,
+                    68.5111111111111
+                ]
+            },
+            "properties": {
+                "name": "EVOLA",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1919444444444,
+                    64.5602777777778
+                ]
+            },
+            "properties": {
+                "name": "EVRIG",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4677777777778,
+                    64.9875
+                ]
+            },
+            "properties": {
+                "name": "EVSET",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5205555555556,
+                    62.8680555555556
+                ]
+            },
+            "properties": {
+                "name": "EXIKU",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1105555555556,
+                    60.3869444444444
+                ]
+            },
+            "properties": {
+                "name": "EXUPA",
+                "arrival": true,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3497222222222,
+                    68.1105555555556
+                ]
+            },
+            "properties": {
+                "name": "EXUTI",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1402777777778,
+                    62.8469444444444
+                ]
+            },
+            "properties": {
+                "name": "GALPI",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7961111111111,
+                    69.1725
+                ]
+            },
+            "properties": {
+                "name": "GAPRO",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.6166666666667,
+                    64.9333333333333
+                ]
+            },
+            "properties": {
+                "name": "GATRI",
+                "arrival": false,
+                "departure": false,
+                "intermediate": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4308333333333,
+                    61.6508333333333
+                ]
+            },
+            "properties": {
+                "name": "GEMKU",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2519444444444,
+                    63.2883333333333
+                ]
+            },
+            "properties": {
+                "name": "GIDKI",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0247222222222,
+                    69.2230555555556
+                ]
+            },
+            "properties": {
+                "name": "GIGOV",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9808333333333,
+                    60.5741666666667
+                ]
+            },
+            "properties": {
+                "name": "GIKIT",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.81,
+                    63.0366666666667
+                ]
+            },
+            "properties": {
+                "name": "GISUX",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8383333333333,
+                    67.6133333333333
+                ]
+            },
+            "properties": {
+                "name": "GITEV",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5594444444444,
+                    64.7036111111111
+                ]
+            },
+            "properties": {
+                "name": "GODOB",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.315,
+                    68.6661111111111
+                ]
+            },
+            "properties": {
+                "name": "GOMAV",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6233333333333,
+                    60.1680555555556
+                ]
+            },
+            "properties": {
+                "name": "GONAP",
+                "arrival": false,
+                "departure": false,
+                "intermediate": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3380555555556,
+                    62.5244444444444
+                ]
+            },
+            "properties": {
+                "name": "GOSVA",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1991666666667,
+                    62.6486111111111
+                ]
+            },
+            "properties": {
+                "name": "GUBTU",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.475,
+                    65.1161111111111
+                ]
+            },
+            "properties": {
+                "name": "GULDU",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.9616666666667,
+                    65.6927777777778
+                ]
+            },
+            "properties": {
+                "name": "IBEVU",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2952777777778,
+                    61.62
+                ]
+            },
+            "properties": {
+                "name": "IBOSU",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0180555555556,
+                    66.7083333333333
+                ]
+            },
+            "properties": {
+                "name": "IBSAN",
+                "arrival": false,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8161111111111,
+                    60.7358333333333
+                ]
+            },
+            "properties": {
+                "name": "IBVAR",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3444444444444,
+                    60.3597222222222
+                ]
+            },
+            "properties": {
+                "name": "IBVUT",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7941666666667,
+                    60.7108333333333
+                ]
+            },
+            "properties": {
+                "name": "IDEPI",
+                "arrival": false,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0766666666667,
+                    61.0908333333333
+                ]
+            },
+            "properties": {
+                "name": "IDNIS",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.9463888888889,
+                    60.1716666666667
+                ]
+            },
+            "properties": {
+                "name": "INLOG",
+                "arrival": false,
+                "departure": false,
+                "intermediate": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0019444444444,
+                    60.855
+                ]
+            },
+            "properties": {
+                "name": "INSOB",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1866666666667,
+                    59.8277777777778
+                ]
+            },
+            "properties": {
+                "name": "INTOR",
+                "arrival": true,
+                "departure": false,
+                "intermediate": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0291666666667,
+                    60.6375
+                ]
+            },
+            "properties": {
+                "name": "IPDUR",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1763888888889,
+                    60.4530555555556
+                ]
+            },
+            "properties": {
+                "name": "IPMOT",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0108333333333,
+                    62.8305555555556
+                ]
+            },
+            "properties": {
+                "name": "IRGAL",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7472222222222,
+                    60.1497222222222
+                ]
+            },
+            "properties": {
+                "name": "IRLOT",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6852777777778,
+                    64.5916666666667
+                ]
+            },
+            "properties": {
+                "name": "IXONO",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1391666666667,
+                    64.4761111111111
+                ]
+            },
+            "properties": {
+                "name": "IXUBI",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1925,
+                    61.3019444444444
+                ]
+            },
+            "properties": {
+                "name": "KEFFA",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1758333333333,
+                    60.4686111111111
+                ]
+            },
+            "properties": {
+                "name": "KELAS",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.4583333333333,
+                    68.5033333333333
+                ]
+            },
+            "properties": {
+                "name": "KELEK",
+                "arrival": false,
+                "departure": false,
+                "intermediate": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0833333333333,
+                    61.8
+                ]
+            },
+            "properties": {
+                "name": "KETOL",
+                "arrival": false,
+                "departure": false,
+                "intermediate": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3525,
+                    61.7177777777778
+                ]
+            },
+            "properties": {
+                "name": "KOFUT",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6652777777778,
+                    59.8447222222222
+                ]
+            },
+            "properties": {
+                "name": "KOIVU",
+                "arrival": false,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.3752777777778,
+                    62.6666666666667
+                ]
+            },
+            "properties": {
+                "name": "KOKAT",
+                "arrival": false,
+                "departure": false,
+                "intermediate": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.1083333333333,
+                    62.4216666666667
+                ]
+            },
+            "properties": {
+                "name": "KOMEK",
+                "arrival": false,
+                "departure": false,
+                "intermediate": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6761111111111,
+                    59.1827777777778
+                ]
+            },
+            "properties": {
+                "name": "KOSKA",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3947222222222,
+                    62.8788888888889
+                ]
+            },
+            "properties": {
+                "name": "KOTOS",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9372222222222,
+                    60.1905555555556
+                ]
+            },
+            "properties": {
+                "name": "KUVEM",
+                "arrival": false,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8763888888889,
+                    60.4380555555556
+                ]
+            },
+            "properties": {
+                "name": "LAKUT",
+                "arrival": true,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0366666666667,
+                    63.5386111111111
+                ]
+            },
+            "properties": {
+                "name": "LAMPI",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5322222222222,
+                    69.4125
+                ]
+            },
+            "properties": {
+                "name": "LAPMU",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1116666666667,
+                    59.975
+                ]
+            },
+            "properties": {
+                "name": "LEDUN",
+                "arrival": true,
+                "departure": false,
+                "intermediate": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4491666666667,
+                    62.4483333333333
+                ]
+            },
+            "properties": {
+                "name": "LIKSO",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4638888888889,
+                    60.3430555555556
+                ]
+            },
+            "properties": {
+                "name": "LIVLU",
+                "arrival": false,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8113888888889,
+                    64.6575
+                ]
+            },
+            "properties": {
+                "name": "LOBGA",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9127777777778,
+                    62.585
+                ]
+            },
+            "properties": {
+                "name": "LOFAD",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8325,
+                    62.6436111111111
+                ]
+            },
+            "properties": {
+                "name": "LUMME",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8763888888889,
+                    59.6402777777778
+                ]
+            },
+            "properties": {
+                "name": "LUPET",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.3602777777778,
+                    68.3441666666667
+                ]
+            },
+            "properties": {
+                "name": "LUSAG",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2647222222222,
+                    60.9522222222222
+                ]
+            },
+            "properties": {
+                "name": "LUSEP",
+                "arrival": true,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.9844444444444,
+                    60.575
+                ]
+            },
+            "properties": {
+                "name": "MAMOP",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0436111111111,
+                    60.4477777777778
+                ]
+            },
+            "properties": {
+                "name": "MAROM",
+                "arrival": true,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7488888888889,
+                    66.6047222222222
+                ]
+            },
+            "properties": {
+                "name": "MARXO",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1538888888889,
+                    60.4261111111111
+                ]
+            },
+            "properties": {
+                "name": "MEHAK",
+                "arrival": false,
+                "departure": false,
+                "intermediate": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4372222222222,
+                    64.4441666666667
+                ]
+            },
+            "properties": {
+                "name": "MIKNU",
+                "arrival": false,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0813888888889,
+                    63.2994444444444
+                ]
+            },
+            "properties": {
+                "name": "MIMRU",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8194444444444,
+                    66.1747222222222
+                ]
+            },
+            "properties": {
+                "name": "MISMO",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.585,
+                    59.8969444444444
+                ]
+            },
+            "properties": {
+                "name": "MOHNI",
+                "arrival": false,
+                "departure": false,
+                "intermediate": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.3266666666667,
+                    63.3627777777778
+                ]
+            },
+            "properties": {
+                "name": "NANIP",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0944444444444,
+                    61.5844444444444
+                ]
+            },
+            "properties": {
+                "name": "NAPRU",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2727777777778,
+                    60.8280555555556
+                ]
+            },
+            "properties": {
+                "name": "NAPUN",
+                "arrival": true,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.5416666666667,
+                    60.9861111111111
+                ]
+            },
+            "properties": {
+                "name": "NAXEP",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8466666666667,
+                    61.1094444444445
+                ]
+            },
+            "properties": {
+                "name": "NEBAB",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7169444444444,
+                    67.0347222222222
+                ]
+            },
+            "properties": {
+                "name": "NEBET",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.7888888888889,
+                    68.9761111111111
+                ]
+            },
+            "properties": {
+                "name": "NEKUX",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6941666666667,
+                    66.34
+                ]
+            },
+            "properties": {
+                "name": "NEMGU",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4855555555556,
+                    60.7425
+                ]
+            },
+            "properties": {
+                "name": "NEPEK",
+                "arrival": false,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1241666666667,
+                    66.1083333333333
+                ]
+            },
+            "properties": {
+                "name": "NEPIX",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5416666666667,
+                    63.7402777777778
+                ]
+            },
+            "properties": {
+                "name": "NESUK",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6519444444444,
+                    61.1438888888889
+                ]
+            },
+            "properties": {
+                "name": "NIFOT",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0133333333333,
+                    59.6825
+                ]
+            },
+            "properties": {
+                "name": "NIPIB",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1336111111111,
+                    60.7741666666667
+                ]
+            },
+            "properties": {
+                "name": "NIRPU",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4316666666667,
+                    59.3186111111111
+                ]
+            },
+            "properties": {
+                "name": "NISIX",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.1238888888889,
+                    62.715
+                ]
+            },
+            "properties": {
+                "name": "NISPO",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0486111111111,
+                    61.1261111111111
+                ]
+            },
+            "properties": {
+                "name": "NISVI",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.9747222222222,
+                    60.1758333333333
+                ]
+            },
+            "properties": {
+                "name": "NITAS",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.8872222222222,
+                    67.9322222222222
+                ]
+            },
+            "properties": {
+                "name": "NOELA",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9786111111111,
+                    64.9613888888889
+                ]
+            },
+            "properties": {
+                "name": "NOPNI",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7530555555556,
+                    65.2011111111111
+                ]
+            },
+            "properties": {
+                "name": "NUBVU",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8936111111111,
+                    60.0836111111111
+                ]
+            },
+            "properties": {
+                "name": "NUNTO",
+                "arrival": false,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9230555555556,
+                    59.4355555555556
+                ]
+            },
+            "properties": {
+                "name": "OBEVI",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.6541666666667,
+                    66.3502777777778
+                ]
+            },
+            "properties": {
+                "name": "OBISO",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1394444444444,
+                    60.1588888888889
+                ]
+            },
+            "properties": {
+                "name": "OBONU",
+                "arrival": false,
+                "departure": false,
+                "intermediate": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6505555555556,
+                    60.3261111111111
+                ]
+            },
+            "properties": {
+                "name": "ODESO",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.9061111111111,
+                    64.0705555555556
+                ]
+            },
+            "properties": {
+                "name": "ODRUB",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8491666666667,
+                    61.5169444444444
+                ]
+            },
+            "properties": {
+                "name": "ODUSA",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1727777777778,
+                    68.8330555555556
+                ]
+            },
+            "properties": {
+                "name": "OGLAV",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4622222222222,
+                    59.9330555555556
+                ]
+            },
+            "properties": {
+                "name": "OGLOB",
+                "arrival": false,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2083333333333,
+                    63.6594444444444
+                ]
+            },
+            "properties": {
+                "name": "OGTUD",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5266666666667,
+                    59.2386111111111
+                ]
+            },
+            "properties": {
+                "name": "OKEVU",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.475,
+                    60.2333333333333
+                ]
+            },
+            "properties": {
+                "name": "OLEMA",
+                "arrival": false,
+                "departure": false,
+                "intermediate": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.3636111111111,
+                    62.0822222222222
+                ]
+            },
+            "properties": {
+                "name": "OLGUB",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7052777777778,
+                    66.1886111111111
+                ]
+            },
+            "properties": {
+                "name": "OLNOP",
+                "arrival": false,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5608333333333,
+                    59.5830555555556
+                ]
+            },
+            "properties": {
+                "name": "OLPED",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9602777777778,
+                    61.7141666666667
+                ]
+            },
+            "properties": {
+                "name": "OSDIL",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0561111111111,
+                    62.6686111111111
+                ]
+            },
+            "properties": {
+                "name": "OSKEK",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4063888888889,
+                    66.8625
+                ]
+            },
+            "properties": {
+                "name": "OSLIT",
+                "arrival": true,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1786111111111,
+                    59.2875
+                ]
+            },
+            "properties": {
+                "name": "OSTOT",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4044444444444,
+                    63.8338888888889
+                ]
+            },
+            "properties": {
+                "name": "OTBAR",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.3897222222222,
+                    61.0794444444445
+                ]
+            },
+            "properties": {
+                "name": "OTKAP",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3677777777778,
+                    60.475
+                ]
+            },
+            "properties": {
+                "name": "OTKIL",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0363888888889,
+                    62.1608333333333
+                ]
+            },
+            "properties": {
+                "name": "OTLUD",
+                "arrival": false,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6755555555556,
+                    61.2688888888889
+                ]
+            },
+            "properties": {
+                "name": "OTPAL",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6475,
+                    62.2872222222222
+                ]
+            },
+            "properties": {
+                "name": "OTVEG",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2227777777778,
+                    65.1386111111111
+                ]
+            },
+            "properties": {
+                "name": "OTVEM",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6255555555556,
+                    60.4052777777778
+                ]
+            },
+            "properties": {
+                "name": "PEKUX",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0047222222222,
+                    61.4797222222222
+                ]
+            },
+            "properties": {
+                "name": "PENIV",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5997222222222,
+                    60.1413888888889
+                ]
+            },
+            "properties": {
+                "name": "PEPIG",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3183333333333,
+                    60.4997222222222
+                ]
+            },
+            "properties": {
+                "name": "PERHO",
+                "arrival": false,
+                "departure": false,
+                "intermediate": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8922222222222,
+                    66.7352777777778
+                ]
+            },
+            "properties": {
+                "name": "PERKE",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1419444444444,
+                    59.5111111111111
+                ]
+            },
+            "properties": {
+                "name": "PETOT",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8244444444444,
+                    59.9130555555556
+                ]
+            },
+            "properties": {
+                "name": "PEXEN",
+                "arrival": true,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1458333333333,
+                    61.5861111111111
+                ]
+            },
+            "properties": {
+                "name": "PIDOP",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1666666666667,
+                    59.05
+                ]
+            },
+            "properties": {
+                "name": "PIRUX",
+                "arrival": false,
+                "departure": false,
+                "intermediate": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1666666666667,
+                    59.55
+                ]
+            },
+            "properties": {
+                "name": "PISIM",
+                "arrival": false,
+                "departure": false,
+                "intermediate": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7511111111111,
+                    59.7780555555556
+                ]
+            },
+            "properties": {
+                "name": "PISOX",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3877777777778,
+                    59.9911111111111
+                ]
+            },
+            "properties": {
+                "name": "POGOK",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3925,
+                    59.9813888888889
+                ]
+            },
+            "properties": {
+                "name": "POKAS",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0005555555556,
+                    63.2336111111111
+                ]
+            },
+            "properties": {
+                "name": "RASRU",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.3383333333333,
+                    60.8583333333333
+                ]
+            },
+            "properties": {
+                "name": "RATLA",
+                "arrival": false,
+                "departure": false,
+                "intermediate": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.5358333333333,
+                    60.2377777777778
+                ]
+            },
+            "properties": {
+                "name": "RATMU",
+                "arrival": false,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.175,
+                    61.8525
+                ]
+            },
+            "properties": {
+                "name": "REBGO",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5611111111111,
+                    59.4430555555556
+                ]
+            },
+            "properties": {
+                "name": "REKDO",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8966666666667,
+                    59.8858333333333
+                ]
+            },
+            "properties": {
+                "name": "RENKU",
+                "arrival": false,
+                "departure": true,
+                "intermediate": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5316666666667,
+                    66.0761111111111
+                ]
+            },
+            "properties": {
+                "name": "RENVI",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2536111111111,
+                    63.2322222222222
+                ]
+            },
+            "properties": {
+                "name": "RERBU",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.4647222222222,
+                    62.4538888888889
+                ]
+            },
+            "properties": {
+                "name": "RERGA",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9630555555556,
+                    61.2813888888889
+                ]
+            },
+            "properties": {
+                "name": "RERLO",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1291666666667,
+                    65.1472222222222
+                ]
+            },
+            "properties": {
+                "name": "RIBVU",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.6008333333333,
+                    69.3897222222222
+                ]
+            },
+            "properties": {
+                "name": "RIDVI",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4080555555556,
+                    59.9708333333333
+                ]
+            },
+            "properties": {
+                "name": "RIKUM",
+                "arrival": true,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4341666666667,
+                    60.2027777777778
+                ]
+            },
+            "properties": {
+                "name": "RIRIP",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5038888888889,
+                    62.5313888888889
+                ]
+            },
+            "properties": {
+                "name": "RISEV",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.8513888888889,
+                    61.6675
+                ]
+            },
+            "properties": {
+                "name": "RIVUM",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9697222222222,
+                    61.4919444444444
+                ]
+            },
+            "properties": {
+                "name": "ROGTU",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.0230555555556,
+                    60.8608333333333
+                ]
+            },
+            "properties": {
+                "name": "ROKVI",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0247222222222,
+                    61.8566666666667
+                ]
+            },
+            "properties": {
+                "name": "ROMOP",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6016666666667,
+                    60.1330555555556
+                ]
+            },
+            "properties": {
+                "name": "ROPAM",
+                "arrival": true,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.9611111111111,
+                    66.9605555555556
+                ]
+            },
+            "properties": {
+                "name": "ROTKO",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5308333333333,
+                    69.7972222222222
+                ]
+            },
+            "properties": {
+                "name": "ROVAN",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.3638888888889,
+                    61.7830555555556
+                ]
+            },
+            "properties": {
+                "name": "ROVTI",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6472222222222,
+                    65.6975
+                ]
+            },
+            "properties": {
+                "name": "RUBSI",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.4011111111111,
+                    67.2038888888889
+                ]
+            },
+            "properties": {
+                "name": "RUDAM",
+                "arrival": false,
+                "departure": false,
+                "intermediate": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5230555555556,
+                    60.1383333333333
+                ]
+            },
+            "properties": {
+                "name": "RULLI",
+                "arrival": false,
+                "departure": false,
+                "intermediate": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4322222222222,
+                    59.5125
+                ]
+            },
+            "properties": {
+                "name": "RUMEP",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.3775,
+                    69.6608333333333
+                ]
+            },
+            "properties": {
+                "name": "RUNES",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7241666666667,
+                    59.7497222222222
+                ]
+            },
+            "properties": {
+                "name": "RUNGA",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9616666666667,
+                    62.0477777777778
+                ]
+            },
+            "properties": {
+                "name": "SAFEK",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.4247222222222,
+                    61.3725
+                ]
+            },
+            "properties": {
+                "name": "SIGGE",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.2377777777778,
+                    69.5744444444444
+                ]
+            },
+            "properties": {
+                "name": "SIVNU",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2430555555556,
+                    62.4675
+                ]
+            },
+            "properties": {
+                "name": "SOPEB",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6608333333333,
+                    62.4363888888889
+                ]
+            },
+            "properties": {
+                "name": "SOSIP",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.1944444444444,
+                    68.2363888888889
+                ]
+            },
+            "properties": {
+                "name": "SOTIT",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6238888888889,
+                    60.2888888888889
+                ]
+            },
+            "properties": {
+                "name": "SOTUP",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3747222222222,
+                    62.6913888888889
+                ]
+            },
+            "properties": {
+                "name": "SUBUG",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3311111111111,
+                    59.9083333333333
+                ]
+            },
+            "properties": {
+                "name": "SUDAT",
+                "arrival": false,
+                "departure": false,
+                "intermediate": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7377777777778,
+                    64.5538888888889
+                ]
+            },
+            "properties": {
+                "name": "SUTEV",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1288888888889,
+                    64.4319444444445
+                ]
+            },
+            "properties": {
+                "name": "SUVIB",
+                "arrival": true,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3427777777778,
+                    62.5308333333333
+                ]
+            },
+            "properties": {
+                "name": "TADOX",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8247222222222,
+                    60.8211111111111
+                ]
+            },
+            "properties": {
+                "name": "TEVRU",
+                "arrival": false,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.2277777777778,
+                    69.7916666666667
+                ]
+            },
+            "properties": {
+                "name": "TINOS",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.7522222222222,
+                    62.6927777777778
+                ]
+            },
+            "properties": {
+                "name": "TITIV",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5402777777778,
+                    61.7619444444444
+                ]
+            },
+            "properties": {
+                "name": "TOGMI",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9111111111111,
+                    61.3288888888889
+                ]
+            },
+            "properties": {
+                "name": "TOHAT",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3344444444444,
+                    67.2905555555556
+                ]
+            },
+            "properties": {
+                "name": "TUGPU",
+                "arrival": false,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.0497222222222,
+                    62.2755555555556
+                ]
+            },
+            "properties": {
+                "name": "TUNOV",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.3063888888889,
+                    61.0680555555556
+                ]
+            },
+            "properties": {
+                "name": "TUSBI",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4952777777778,
+                    67.6905555555556
+                ]
+            },
+            "properties": {
+                "name": "TUVLU",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.805,
+                    64.3847222222222
+                ]
+            },
+            "properties": {
+                "name": "UBIGA",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.2369444444444,
+                    61.9283333333333
+                ]
+            },
+            "properties": {
+                "name": "UDVIM",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6408333333333,
+                    63.4152777777778
+                ]
+            },
+            "properties": {
+                "name": "UGLUM",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1416666666667,
+                    64.6611111111111
+                ]
+            },
+            "properties": {
+                "name": "UGMOR",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3419444444444,
+                    63.8625
+                ]
+            },
+            "properties": {
+                "name": "ULGEG",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4702777777778,
+                    66.4683333333333
+                ]
+            },
+            "properties": {
+                "name": "ULROM",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2036111111111,
+                    60.2538888888889
+                ]
+            },
+            "properties": {
+                "name": "ULTIR",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2908333333333,
+                    60.5497222222222
+                ]
+            },
+            "properties": {
+                "name": "ULTSI",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.6797222222222,
+                    61.9313888888889
+                ]
+            },
+            "properties": {
+                "name": "ULVED",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1530555555556,
+                    61.1036111111111
+                ]
+            },
+            "properties": {
+                "name": "UMSES",
+                "arrival": false,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6947222222222,
+                    60.0372222222222
+                ]
+            },
+            "properties": {
+                "name": "UMUGI",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5594444444444,
+                    60.185
+                ]
+            },
+            "properties": {
+                "name": "UPAPU",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4855555555556,
+                    65.2980555555556
+                ]
+            },
+            "properties": {
+                "name": "UPEDU",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3658333333333,
+                    59.8586111111111
+                ]
+            },
+            "properties": {
+                "name": "USITU",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0155555555556,
+                    61.6125
+                ]
+            },
+            "properties": {
+                "name": "USUPO",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2011111111111,
+                    63.3913888888889
+                ]
+            },
+            "properties": {
+                "name": "UVATI",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8494444444444,
+                    61.0925
+                ]
+            },
+            "properties": {
+                "name": "UVEMO",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1647222222222,
+                    68.8027777777778
+                ]
+            },
+            "properties": {
+                "name": "UVMOK",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4363888888889,
+                    60.7736111111111
+                ]
+            },
+            "properties": {
+                "name": "UVOPA",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.4002777777778,
+                    62.3825
+                ]
+            },
+            "properties": {
+                "name": "UVOVO",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6133333333333,
+                    60.85
+                ]
+            },
+            "properties": {
+                "name": "UXADA",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.9425,
+                    61.4675
+                ]
+            },
+            "properties": {
+                "name": "UXEGA",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9144444444444,
+                    60.1411111111111
+                ]
+            },
+            "properties": {
+                "name": "UXETI",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5444444444444,
+                    62.6058333333333
+                ]
+            },
+            "properties": {
+                "name": "VABUB",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.7952777777778,
+                    69.7516666666667
+                ]
+            },
+            "properties": {
+                "name": "VADLA",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5741666666667,
+                    63.4186111111111
+                ]
+            },
+            "properties": {
+                "name": "VALAK",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1388888888889,
+                    59.7316666666667
+                ]
+            },
+            "properties": {
+                "name": "VALOX",
+                "arrival": false,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7275,
+                    61.8444444444445
+                ]
+            },
+            "properties": {
+                "name": "VAVED",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.705,
+                    63.9841666666667
+                ]
+            },
+            "properties": {
+                "name": "VAXUN",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1047222222222,
+                    60.77
+                ]
+            },
+            "properties": {
+                "name": "VEHUF",
+                "arrival": true,
+                "departure": false,
+                "intermediate": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.8138888888889,
+                    62.9797222222222
+                ]
+            },
+            "properties": {
+                "name": "VEKUV",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.3330555555556,
+                    60.6313888888889
+                ]
+            },
+            "properties": {
+                "name": "VEPIN",
+                "arrival": false,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6294444444444,
+                    61.9347222222222
+                ]
+            },
+            "properties": {
+                "name": "XELMA",
+                "arrival": false,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3652777777778,
+                    67.8733333333333
+                ]
+            },
+            "properties": {
+                "name": "XETMU",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2416666666667,
+                    60.6888888888889
+                ]
+            },
+            "properties": {
+                "name": "XETNI",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.31,
+                    64.8369444444444
+                ]
+            },
+            "properties": {
+                "name": "XEVAP",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3802777777778,
+                    63.3658333333333
+                ]
+            },
+            "properties": {
+                "name": "XEVLO",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0766666666667,
+                    65.9405555555556
+                ]
+            },
+            "properties": {
+                "name": "XONTU",
+                "arrival": false,
+                "departure": false,
+                "intermediate": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6483333333333,
+                    61.3244444444444
+                ]
+            },
+            "properties": {
+                "name": "XORMU",
+                "arrival": true,
+                "departure": true,
+                "intermediate": true
+            }
+        }
+    ]
+}
