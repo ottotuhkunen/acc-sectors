@@ -2252,7 +2252,7 @@
             },
             "properties": {
                 "name": "MAMOP",
-                "arrival": false,
+                "arrival": true,
                 "departure": false,
                 "intermediate": true
             }
@@ -4636,8 +4636,8 @@
             },
             "properties": {
                 "name": "VEPIN",
-                "arrival": false,
-                "departure": true,
+                "arrival": true,
+                "departure": false,
                 "intermediate": true
             }
         },
