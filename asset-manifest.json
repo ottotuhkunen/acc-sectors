@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.6345f400.css",
-    "main.js": "/static/js/main.c5ff7831.js",
+    "main.js": "/static/js/main.ddde3b06.js",
     "static/js/879.ba583311.chunk.js": "/static/js/879.ba583311.chunk.js",
     "static/js/453.a02a7e64.chunk.js": "/static/js/453.a02a7e64.chunk.js",
     "static/media/points.geojson": "/static/media/points.5d004c71d85d718b0ccc.geojson",
-    "static/media/tma.geojson": "/static/media/tma.c5a6593724c637371ff9.geojson",
+    "static/media/tma.geojson": "/static/media/tma.06b4dff84219ab9ad524.geojson",
     "static/media/sectors.geojson": "/static/media/sectors.72edb593aeb2010c8b6e.geojson",
     "index.html": "/index.html",
     "main.6345f400.css.map": "/static/css/main.6345f400.css.map",
-    "main.c5ff7831.js.map": "/static/js/main.c5ff7831.js.map",
+    "main.ddde3b06.js.map": "/static/js/main.ddde3b06.js.map",
     "879.ba583311.chunk.js.map": "/static/js/879.ba583311.chunk.js.map",
     "453.a02a7e64.chunk.js.map": "/static/js/453.a02a7e64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6345f400.css",
-    "static/js/main.c5ff7831.js"
+    "static/js/main.ddde3b06.js"
   ]
 }
