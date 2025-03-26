@@ -8,9 +8,9 @@ import firsJson from './firs.json';
 const mapboxToken = 'pk.eyJ1Ijoib3R0b3R1aGt1bmVuIiwiYSI6ImNseG41dW9vaDAwNzQycXNleWI1MmowbHcifQ.1ZMRPeOQ7z9GRzKILnFNAQ';
 
 const controllerList = [
-  'EFIN_A_CTR', 'EFIN_B_CTR', 'EFIN_C_CTR', 'EFIN_D_CTR', 'EFIN_E_CTR', 
-  'EFIN_F_CTR', 'EFIN_G_CTR', 'EFIN_H_CTR', 'EFIN_J_CTR', 'EFIN_K_CTR',
-  'EFIN_L_CTR', 'EFIN_M_CTR', 'EFIN_N_CTR', 'EFIN_V_CTR'
+  'EFIN A', 'EFIN B', 'EFIN C', 'EFIN D', 'EFIN E', 
+  'EFIN F', 'EFIN G', 'EFIN H', 'EFIN J', 'EFIN K',
+  'EFIN L', 'EFIN M', 'EFIN N', 'EFIN V'
 ];
 
 const sectorsOwnership = {
@@ -30,48 +30,41 @@ const sectorsOwnership = {
   sector14: ['V', 'M', 'G', 'F', 'D', 'C']
 };
 
+const presets = [
+  { name: 'D + F', controllers: ['EFIN D', 'EFIN F'] },
+  { name: 'D + G', controllers: ['EFIN D', 'EFIN G'] },
+  { name: 'D + M', controllers: ['EFIN D', 'EFIN M'] },
+  { name: 'D + V', controllers: ['EFIN D', 'EFIN V'] },
+  { name: 'D + F + V', controllers: ['EFIN D', 'EFIN F', 'EFIN V'] },
+  { name: 'D + G + V', controllers: ['EFIN D', 'EFIN G', 'EFIN V'] },
+  { name: 'D + M + V', controllers: ['EFIN D', 'EFIN M', 'EFIN V'] },
+  { name: 'D + F + M', controllers: ['EFIN D', 'EFIN F', 'EFIN M'] },
+  { name: 'D + F + M + V', controllers: ['EFIN D', 'EFIN F', 'EFIN M', 'EFIN V'] }
+];
+
 // Dark-themed colors for controllers
 const controllerColors = {
-  'EFIN_A_CTR': '#2f4f4f',      // darkslategray
-  'EFIN_B_CTR': '#8b0000',      // darkred
-  'EFIN_C_CTR': '#ff8c00',      // darkorange
-  'EFIN_D_CTR': '#00bfff',      // midnightblue
-  'EFIN_E_CTR': '#ffff00',      // yellow
-  'EFIN_F_CTR': '#006400',      // darkgreen
-  'EFIN_G_CTR': '#00ff00',      // lime
-  'EFIN_H_CTR': '#deb887',      // burlywood
-  'EFIN_J_CTR': '#0000cd',      // mediumblue
-  'EFIN_K_CTR': '#dda0dd',      // plum
-  'EFIN_L_CTR': '#191970',      // deepskyblue
-  'EFIN_M_CTR': '#ff1493',      // deeppink
-  'EFIN_N_CTR': '#98fb98',      // palegreen
-  'EFIN_V_CTR': '#ff4500'       // orange red
+  'EFIN A': '#2f4f4f',      // darkslategray
+  'EFIN B': '#8b0000',      // darkred
+  'EFIN C': '#ff8c00',      // darkorange
+  'EFIN D': '#00bfff',      // midnightblue
+  'EFIN E': '#ffff00',      // yellow
+  'EFIN F': '#006400',      // darkgreen
+  'EFIN G': '#00ff00',      // lime
+  'EFIN H': '#deb887',      // burlywood
+  'EFIN J': '#0000cd',      // mediumblue
+  'EFIN K': '#dda0dd',      // plum
+  'EFIN L': '#191970',      // deepskyblue
+  'EFIN M': '#ff1493',      // deeppink
+  'EFIN N': '#98fb98',      // palegreen
+  'EFIN V': '#ff4500'       // orange red
 };
-
-
-const controllerLabels = {
-  'EFIN_A_CTR': 'EFIN A',
-  'EFIN_B_CTR': 'EFIN B',
-  'EFIN_C_CTR': 'EFIN C',
-  'EFIN_D_CTR': 'EFIN D',
-  'EFIN_E_CTR': 'EFIN E',
-  'EFIN_F_CTR': 'EFIN F',
-  'EFIN_G_CTR': 'EFIN G',
-  'EFIN_H_CTR': 'EFIN H',
-  'EFIN_J_CTR': 'EFIN J',
-  'EFIN_K_CTR': 'EFIN K',
-  'EFIN_L_CTR': 'EFIN L',
-  'EFIN_M_CTR': 'EFIN M',
-  'EFIN_N_CTR': 'EFIN N',
-  'EFIN_V_CTR': 'EFIN V'
-};
-
 
 // Determine which controller owns the sector
 const getSectorOwner = (sectorCode, onlineControllers) => {
   const sectorControllers = sectorsOwnership[sectorCode];
   for (let controller of sectorControllers) {
-    const callsign = `EFIN_${controller}_CTR`;
+    const callsign = `EFIN ${controller}`;
     if (onlineControllers.includes(callsign)) {
       return callsign;
     }
@@ -80,14 +73,21 @@ const getSectorOwner = (sectorCode, onlineControllers) => {
 };
 
 const App = () => {
-  const [onlineControllers, setOnlineControllers] = useState(['EFIN_D_CTR']);
+  const [onlineControllers, setOnlineControllers] = useState(['EFIN D']);
+  const [selectedPreset, setSelectedPreset] = useState(null);
 
   const toggleController = (callsign) => {
+    setSelectedPreset();
     setOnlineControllers(prev =>
       prev.includes(callsign)
         ? prev.filter(c => c !== callsign)
         : [...prev, callsign]
     );
+  };
+
+  const applyPreset = (presetControllers, presetName) => {
+    setOnlineControllers(presetControllers);
+    setSelectedPreset(presetName);
   };
 
   // Determine the color for each sector based on the controller
@@ -97,36 +97,36 @@ const App = () => {
   };
 
   return (
-      <div style={{ height: '100vh', backgroundColor: '#1e1e1e', color: '#ffffff' }}>
+    <div style={{ height: '100vh', backgroundColor: '#1e1e1e', color: '#ffffff' }}>
       {/* Controller buttons */}
       <div style={{ 
-        padding: '10px', 
+        padding: '4px 2px', 
         display: 'flex', 
         flexWrap: 'wrap', 
-        background: '#333', 
-        justifyContent: 'center', // Center buttons horizontally
-        alignItems: 'center'      // Center buttons vertically
+        background: 'gray', 
+        justifyContent: 'center',
+        alignItems: 'center'
       }}>
         {controllerList.map((controller) => (
           <button
             key={controller}
             style={{
-              margin: '5px',
-              padding: '10px',
+              margin: '4px',
+              padding: '8px',
+              width: '66px',
               background: onlineControllers.includes(controller) ? controllerColors[controller] : '#555555',
               color: onlineControllers.includes(controller) ? '#000000' : '#ffffff',
               fontWeight: onlineControllers.includes(controller) ? 'bold' : 'normal',
               border: 'none',
-              borderRadius: '4px',
               cursor: 'pointer'
             }}
             onClick={() => toggleController(controller)}
           >
-            {controllerLabels[controller]}
+            {controller}
           </button>
         ))}
-
       </div>
+      
 
       {/* Map and sectors */}
       <Map
@@ -135,8 +135,8 @@ const App = () => {
           latitude: 65,
           zoom: 4
         }}
-        style={{ width: '100%', height: '90%' }}
-        mapStyle="mapbox://styles/mapbox/dark-v10"  // Dark theme map
+        style={{ width: '100%', height: '90%', zIndex: '0' }}
+        mapStyle="mapbox://styles/ottotuhkunen/cm8g2jfyj00yv01sa0tvx4vof"
         mapboxAccessToken={mapboxToken}
       >
         {/* TMA geojson */}
@@ -147,8 +147,23 @@ const App = () => {
             paint={{
               'line-color': '#00bfff',
               'line-width': 0.8,
-              'line-dasharray': [4, 2]
+              'line-dasharray': [2, 2]
             }}
+          />
+          <Layer
+            id="tma-labels"
+            type="symbol"
+            layout={{
+              'text-field': ['get', 'name'],
+              'text-font': ['Open Sans Bold'],
+              'text-size': 9,
+            }}
+            paint={{
+              'text-color': 'darkblue',
+              'text-halo-color': 'white',
+              'text-halo-width': 1
+            }}
+            minzoom={5}
           />
         </Source>
 
@@ -199,9 +214,56 @@ const App = () => {
               'line-width': 1
             }}
           />
+          <Layer
+            id="acc-labels"
+            type="symbol"
+            layout={{
+              'text-field': ['concat', ['get', 'name'], '\n', ['get', 'frequency']],
+              'text-font': ['Open Sans Bold'],
+              'text-size': 9,
+            }}
+            paint={{
+              'text-color': 'black',
+              'text-halo-color': 'white',
+              'text-halo-width': 0.4
+            }}
+            minzoom={3}
+          />
         </Source>
 
       </Map>
+
+      {/* Preset buttons */}
+      <div style={{
+        padding: '4px 2px', 
+        display: 'flex',
+        flexWrap: 'wrap',
+        background: 'gray',
+        justifyContent: 'center',
+        alignItems: 'center',
+        position: 'fixed',
+        width: '100%',
+        bottom: '0'
+      }}>
+        {presets.map((preset, index) => (
+          <button
+            key={index}
+            style={{
+              margin: '4px',
+              padding: '8px',
+              background: selectedPreset === preset.name ? '#1a475f' : '#555555',
+              color: '#ffffff',
+              fontWeight: 'normal',
+              border: 'none',
+              cursor: 'pointer'
+            }}
+            onClick={() => applyPreset(preset.controllers, preset.name)}
+          >
+            {preset.name}
+          </button>
+        ))}
+      </div>
+
     </div>
   );
 };
