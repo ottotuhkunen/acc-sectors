@@ -1828,6 +1828,19 @@
         {
             "type": "Feature",
             "geometry": {
+              "type": "Point",
+              "coordinates": [26.8938888888889, 60.6366666666667]
+            },
+            "properties": {
+                "name": "IRJUB",
+                "arrival": true,
+                "departure": false,
+                "intermediate": false
+            }
+          },
+        {
+            "type": "Feature",
+            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     25.7472222222222,
