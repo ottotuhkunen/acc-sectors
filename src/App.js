@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import Map, { Source, Layer } from 'react-map-gl';
 import 'mapbox-gl/dist/mapbox-gl.css';
 import sectorsGeoJson from './sectors.geojson';
-import tmaGeoJson from './tma.geojson';
+import tmaGeoJson from './ilmatila2027.geojson';
 import firsJson from './firs.json';
 
 const mapboxToken = 'pk.eyJ1Ijoib3R0b3R1aGt1bmVuIiwiYSI6ImNseG41dW9vaDAwNzQycXNleWI1MmowbHcifQ.1ZMRPeOQ7z9GRzKILnFNAQ';
@@ -183,6 +183,7 @@ const App = () => {
             }}
             minzoom={5}
           />
+
         </Source>
 
         {/* FIRs geojson */}
@@ -229,14 +230,14 @@ const App = () => {
             type="line"
             paint={{
               'line-color': 'gray',
-              'line-width': 1
+              'line-width': 1.5
             }}
           />
           <Layer
             id="acc-labels"
             type="symbol"
             layout={{
-              'text-field': ['concat', ['get', 'name'], '\n', ['get', 'frequency']],
+              'text-field': ['get', 'name'],
               'text-font': ['Open Sans Bold'],
               'text-size': 9,
             }}
