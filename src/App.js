@@ -2,10 +2,10 @@ import React, { useState } from 'react';
 import Map, { Source, Layer } from 'react-map-gl';
 import 'mapbox-gl/dist/mapbox-gl.css';
 import sectorsGeoJson from './sectors.geojson';
-import tmaGeoJson from './ilmatila2027.geojson';
+import tmaGeoJson from './tma2.geojson';
 import firsJson from './firs.json';
 
-const mapboxToken = 'pk.eyJ1Ijoib3R0b3R1aGt1bmVuIiwiYSI6ImNseG41dW9vaDAwNzQycXNleWI1MmowbHcifQ.1ZMRPeOQ7z9GRzKILnFNAQ';
+const mapboxToken = 'pk.eyJ1Ijoib3R0b3R1aGt1bmVuIiwiYSI6ImNtcTZmaW5qczAwdm8yc3M5a2trazluemsifQ.26_Ibhcm3a2nyUT4CLA4aQ';
 
 const controllerList = [
   'A', 'B', 'C', 'D', 'E', 
