@@ -1,9 +1,12 @@
-import React, { useState } from 'react';
+import React, { useState, useMemo } from 'react';
 import Map, { Source, Layer } from 'react-map-gl';
 import 'mapbox-gl/dist/mapbox-gl.css';
-import sectorsGeoJson from './sectors.geojson';
-import tmaGeoJson from './tma2.geojson';
 import firsJson from './firs.json';
+
+import sectors2026 from './acc2026.geojson';
+import sectors2027 from './acc2027.geojson';
+import tma2026 from './tma2026.geojson';
+import tma2027 from './tma2027_empty.geojson';
 
 const mapboxToken = 'pk.eyJ1Ijoib3R0b3R1aGt1bmVuIiwiYSI6ImNtcTZmaW5qczAwdm8yc3M5a2trazluemsifQ.26_Ibhcm3a2nyUT4CLA4aQ';
 
@@ -94,9 +97,13 @@ const getSectorOwner = (sectorCode, onlineControllers) => {
 const App = () => {
   const [onlineControllers, setOnlineControllers] = useState(['D']);
   const [selectedPreset, setSelectedPreset] = useState(null);
+  const [version, setVersion] = useState('2026');
+
+  const sectorsGeoJson = version === '2026' ? sectors2026 : sectors2027;
+  const tmaGeoJson = version === '2026' ? tma2026 : tma2027;
 
   const toggleController = (callsign) => {
-    setSelectedPreset();
+      setSelectedPreset(null);
     setOnlineControllers(prev =>
       prev.includes(callsign)
         ? prev.filter(c => c !== callsign)
@@ -115,6 +122,15 @@ const App = () => {
     return owner ? controllerColors[owner] : 'transparent';
   };
 
+    const sectorColors = useMemo(() => {
+        return Object.fromEntries(
+            Object.keys(sectorsOwnership).map(sector => [
+                sector,
+                getSectorFillColor(sector)
+            ])
+        );
+    }, [onlineControllers, version]);
+
   return (
     <div style={{ height: '100vh', width: '100vw', position: 'fixed', backgroundColor: '#1e1e1e', color: '#ffffff' }}>
       {/* Controller buttons */}
@@ -126,6 +142,20 @@ const App = () => {
         justifyContent: 'center',
         alignItems: 'center',
       }}>
+          <button
+              onClick={() => setVersion(v => (v === '2026' ? '2027' : '2026'))}
+              style={{
+                  margin: '3px',
+                  padding: '4px',
+                  width: '60px',
+                  background: '#555555',
+                  color: '#ffffff',
+                  fontWeight: 'normal',
+                  border: 'none',
+                  cursor: 'pointer'
+              }}
+          >{version}
+          </button>
         {controllerList.map((controller) => (
           <button
             key={controller}
@@ -206,20 +236,20 @@ const App = () => {
               'fill-color': [
                 'match',
                 ['get', 'code'],
-                'sector1', getSectorFillColor('sector1'),
-                'sector2', getSectorFillColor('sector2'),
-                'sector3', getSectorFillColor('sector3'),
-                'sector4', getSectorFillColor('sector4'),
-                'sector5', getSectorFillColor('sector5'),
-                'sector6', getSectorFillColor('sector6'),
-                'sector7', getSectorFillColor('sector7'),
-                'sector8', getSectorFillColor('sector8'),
-                'sector9', getSectorFillColor('sector9'),
-                'sector10', getSectorFillColor('sector10'),
-                'sector11', getSectorFillColor('sector11'),
-                'sector12', getSectorFillColor('sector12'),
-                'sector13', getSectorFillColor('sector13'),
-                'sector14', getSectorFillColor('sector14'),
+                  'sector1', sectorColors.sector1,
+                  'sector2', sectorColors.sector2,
+                  'sector3', sectorColors.sector3,
+                  'sector4', sectorColors.sector4,
+                  'sector5', sectorColors.sector5,
+                  'sector6', sectorColors.sector6,
+                  'sector7', sectorColors.sector7,
+                  'sector8', sectorColors.sector8,
+                  'sector9', sectorColors.sector9,
+                  'sector10', sectorColors.sector10,
+                  'sector11', sectorColors.sector11,
+                  'sector12', sectorColors.sector12,
+                  'sector13', sectorColors.sector13,
+                  'sector14', sectorColors.sector14,
                 'rgb(50, 50, 50)' // Default color (dark gray)
               ],
               'fill-opacity': 0.3
