@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "EFET FIZ Upper"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+          ]
+        ]
+      }
+    }
+  ]
+}
